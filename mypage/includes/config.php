@@ -12,10 +12,10 @@ define('DB_PASS',''); // default XAMPP root has empty password
 
 // Mail (Gmail example) - replace with your credentials
 define('MAIL_HOST','smtp.gmail.com');
-define('MAIL_USERNAME','your@gmail.com');       // your SMTP username (email)
-define('MAIL_PASSWORD','your-app-password');    // app password or SMTP password
-define('MAIL_FROM', 'your@gmail.com');
-define('MAIL_FROM_NAME', 'Mypage');
+define('MAIL_USERNAME'hema'hsri81009@gmail.com');       // your SMTP username (email)
+define('MAIL_PASSWORD'hemz@2004'your-app-password');    // app password or SMTP password
+define('MAIL_FROM'hsri81009@gmail.com'your@gmail.com');
+define('MAIL_FROM_NAME'hema'Mypage');
 
 try {
     $pdo = new PDO(
@@ -28,3 +28,4 @@ try {
 } catch (PDOException $e) {
     die("DB Connection failed: " . $e->getMessage());
 }
+
