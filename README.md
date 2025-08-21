@@ -81,9 +81,9 @@ define('DB_USER','root');
 define('DB_PASS','');
 
 define('MAIL_HOST','smtp.gmail.com');
-define('MAIL_USERNAME','your@gmail.com');
-define('MAIL_PASSWORD','your-app-password'); // or SMTP password
-define('MAIL_FROM', 'your@gmail.com');
+define('MAIL_USERNAME','hsri81009@gmail.com');
+define('MAIL_PASSWORD','hemz@2004'); // or SMTP password
+define('MAIL_FROM', 'hsri81008@gmail.com');
 define('MAIL_FROM_NAME', 'Mypage');
 
 > Note: If using Gmail, enable 2FA and create an App Password.
